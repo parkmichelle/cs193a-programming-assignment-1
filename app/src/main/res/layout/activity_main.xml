@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Can you beat me at rock, paper, scissors? Make your move!"
+        android:text="Can you beat me at rock, paper, scissors? Make your move."
         android:id="@+id/instructions_view"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
